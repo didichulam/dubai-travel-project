@@ -37,6 +37,10 @@ body {
   aspect-ratio: 4/5.4;
 }
 
+.instagram-embeds {
+  margin: 30px 0;
+}
+
 .card-body {
   padding: 30px;
 }
