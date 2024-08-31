@@ -3,6 +3,9 @@ body {
   background-color: #272044;
 }
 
+.dubai-intro {
+  margin-top: 30px;
+}
 .grid {
   display: grid;
   grid-gap: 64px;
@@ -61,22 +64,17 @@ body {
   background-color: #462cb3;
   text-decoration: none;
 }
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-}
-.text-center {
-  text-align: center;
-}
 section {
   margin: 0 auto;
   padding: 100px 200px;
 }
+.text-center {
+  text-align: center;
+}
 
-section.sights {
+.sights {
   background-color: #f8f8f8;
   max-width: 100%;
-  padding: 100px 200px;
 }
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)),
@@ -231,7 +229,7 @@ footer a {
   section {
     padding: 30px;
   }
-  section.sights {
+  .sights {
     padding: 5px;
   }
 
