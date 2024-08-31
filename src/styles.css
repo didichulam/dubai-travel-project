@@ -62,7 +62,7 @@ body {
   text-decoration: none;
 }
 .container {
-  max-width: 1400px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 .text-center {
@@ -85,7 +85,7 @@ header {
   background-size: cover;
   color: white;
   text-align: center;
-  padding: 200px 0;
+  padding: 150px 0;
 }
 
 header h1 {
@@ -230,6 +230,9 @@ footer a {
 
   section {
     padding: 30px;
+  }
+  section.sights {
+    padding: 5px;
   }
 
   .card-header img {
